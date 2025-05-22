@@ -50,7 +50,6 @@
 
 ### 📫 Let’s Connect
 
-- 🌐 [Portfolio (if any)](https://your-portfolio-link.com)
 - 📧 Email: liveg6740@gmail.com
 - 🧑‍💼 LinkedIn: [linkedin.com/in/your-profile]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/divyansh-yadav-15618626b/))
 
